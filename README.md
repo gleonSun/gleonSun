@@ -1,16 +1,13 @@
-### Hi there 👋
+[![github logo](https://img.shields.io/badge/github-gleonSun-lightgrey?logo=github)](https://gleonsun.github.io)
 
-<!--
-**gleonSun/gleonSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![hello i am Guoliang](https://raw.githubusercontent.com/gleonSun/gleonSun/main/assets/hello-im-guoliang.svg)
 
-Here are some ideas to get you started:
+### GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Guoliang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gleonSun&show_icons=true&theme=radical)
+
+![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gleonSun&hide=javascript,html&theme=merko&layout=compact)
+
+
+### Contribution
+
